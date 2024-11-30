@@ -20,7 +20,7 @@
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/sitemap": "^2.4.0",
-    "@nuxtjs/tailwindcss": "^3.4.3",
+    "@nuxtjs/tailwindcss": "^4.2.0",
     "@tailwindcss/typography": "^0.4.1",
     "nuxt": "^2.15.7",
     "prism-themes": "^1.7.0",
